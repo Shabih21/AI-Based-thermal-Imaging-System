@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e72271058cc1e174a8fa4e2c908c2b98
+  - enabled: 1
+    path: Assets/Scenes/terrain1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/terrain2.unity
+    guid: 23ffd869c54a5c54b8ae2a4ac10b6fd9
+  - enabled: 1
+    path: Assets/Scenes/menu2.unity
+    guid: 08c4552bed228bf4985bfd915e650893
+  - enabled: 1
+    path: Assets/Scenes/selectionmenu.unity
+    guid: b8a7539a2e773b741a43d571894c0537
+  - enabled: 1
+    path: Assets/Scenes/timessquare.unity
+    guid: 47adf135baa92b0489d7ae8ff2a8f7e7
+  - enabled: 1
+    path: Assets/Scenes/london.unity
+    guid: 103e2e73b36dbcc4a886d9d685fbf2c9
+  - enabled: 1
+    path: Assets/Scenes/chakri.unity
+    guid: 46479980317880d40aad57ae4272e6cb
+  - enabled: 1
+    path: Assets/Scenes/options_menu.unity
+    guid: c216f8f24b826424bb9f6981ea2a6599
+  m_configObjects: {}
